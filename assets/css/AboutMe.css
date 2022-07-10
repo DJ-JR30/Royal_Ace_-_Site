@@ -1,0 +1,74 @@
+:root {
+    --bg-clr: #252525;
+    --bg-clrt: #505050;
+    --h5-clr: darkgrey;
+}
+
+
+
+body {
+    background-color: var(--bg-clrt);
+}
+
+.box {
+    background-color: var(--bg-clr);
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    display: block;
+}
+
+.profileImage {
+    width: 150px;
+    border-radius: 10px;
+}
+
+.profileName {
+    font-family: 'Century Gothic', sans-serif;
+    letter-spacing: 4px;
+    font-weight: 100;
+    color: white;
+}
+
+.box h5 {
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    color: var(--h5-clr);
+}
+
+
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+
+.box li {
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+
+.box li a {
+    color: white;
+    text-decoration: none;
+    font-size: 60px;
+    transition: all ease-in-out 250ms;
+}
+
+.box li a:hover {
+    color: #b9b9b9;
+}
+
+
+.Quotes {
+    font-size: 9px;
+    letter-spacing: 0;
+    font-weight: 50;
+}
+
+

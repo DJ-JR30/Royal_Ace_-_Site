@@ -1,0 +1,49 @@
+:root {
+    --bg-clr: #252525;
+    --bg-clrt: #505050;
+}
+
+
+
+body {
+    background-color: var(--bg-clrt);
+}
+
+.Title {
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+
+.SpaceTxt {
+    font-family: 'Century Gothic', sans-serif;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+
+
+.sections {
+    background-color: var(--bg-clr);
+    border-radius: 13px;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    display: block;
+}
+
+.btns {
+    background-color: var(--bg-clrt);
+    border-radius: 13px;
+    padding: 5px;
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+.opts {
+    color: white;
+}
+
+
+
