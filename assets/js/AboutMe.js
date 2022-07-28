@@ -17,9 +17,31 @@ const QUOTES = {
     16: "“Dream big and dare to fail.” — Norman Vaughan",
     17: "“Nothing is impossible, the word itself says, ‘I'm possible!’” — Audrey Hepburn",
     18: "“I would rather die of passion than of boredom.” — Vincent van Gogh",
-    19: "“Dreaming, after all, is a form of planning.” — Gloria Steinem"
+    19: "“Dreaming, after all, is a form of planning.” — Gloria Steinem",
+    20: "”I have not yet begun to fight!“ — John Paul Jones, U.S. Navy",
+    21: "”The people who are crazy enough to think they can change the world, are the ones who do.“ — Steve Jobs",
+    22: "”Train yourself to let go of everything you fear to lose“ — Yoda",
+    23: "”Always forgive your enemies; nothing annoys them so much.“ — Oscar Wilde",
+    24: "”Obsessed is just a word the lazy use to describe the dedicated.“ — Russell Warren",
+    25: "”Either write something worth reading or do something worth writing.“ — Benjamin Franklin",
+    26: "”The best revenge is massive success“ — Frank Sinatra",
+    27: "”If you aren't going all fhe way, why go at all?“ — Joe Namath",
+    28: "”Build your own dreams, or someone else will hire you to build theirs.“ — Farrah Grey",
+    29: "”Tough times never last, but tough people do“ — Dr.Robert Schuller",
+    30: "”That which does not kill us makes us stronger“ — Friedrich Nietzshe",
+    31: "”Don't count the days, make the days count.“ — Muhammad Ali",
+    32: "”Someday is not a day of the week.“ — Denise Brennan-Nelson",
+    33: "”If you can't outplay them, outwork them.“ — Ben Hogan",
+    34: "”Tis better to keep quiet and be thot a fool than to speak and remove all doubt“ — Dr.Author Burns",
+    35: "”Bravery is not a quality of the body. It is of the soul.“ — Mahatma Gandhi",
+    36: "”Don't sweat the pretty things and don't pet the sweaty things.“ — George Carlin",
+    37: "”I got my own back.“ — Maya Angelou",
+    38: "”Either I will find a way, or I will make one.“ — Philp Sidney",
+    39: "”When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.“ — Henry Ford",
+    40: "”Life isn't about finding yourself. Life is about creating yourself.“ — George Bernard Shaw",
+    41: "”It's kind of fun to do the impossible.“ — Walt Disney"
 };
-  
+
   
   
 
